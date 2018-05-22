@@ -2,4 +2,4 @@
 
 readme change
 
-Creating a new branch is quick & simple.
+Create a new brach is quick and simple;
